@@ -210,3 +210,10 @@ blockquote .zh{color:var(--muted);font-size:15px;margin:0}
   .cards.three,.cards.four,.cards.two{grid-template-columns:1fr 1fr}
 }
 .nw{white-space:nowrap}
+
+.sec-listen{padding:32px 0}
+.audio-player{display:block;width:100%;max-width:640px;margin:14px 0 8px;min-height:44px}
+.audio-meta{font-size:14px;color:var(--muted)}
+.transcript{max-width:760px}
+.transcript-h1{font-size:clamp(24px,6vw,34px);font-weight:800;margin:4px 0 14px}
+.transcript p{line-height:1.85}
